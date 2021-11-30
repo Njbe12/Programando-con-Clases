@@ -1,0 +1,16 @@
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\Programando con Clases.exe
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\Programando con Clases.deps.json
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\Programando con Clases.runtimeconfig.json
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\Programando con Clases.runtimeconfig.dev.json
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\Programando con Clases.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\ref\Programando con Clases.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\bin\Debug\net5.0\Programando con Clases.pdb
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.csproj.AssemblyReference.cache
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.AssemblyInfoInputs.cache
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.AssemblyInfo.cs
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.csproj.CoreCompileInputs.cache
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\ref\Programando con Clases.dll
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.pdb
+D:\PC\Documentos\Noel\Universidad Latina de Panamá\Cuatrimestre 6\Programacion V\Programando con Clases\obj\Debug\net5.0\Programando con Clases.genruntimeconfig.cache
